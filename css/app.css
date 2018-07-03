@@ -1,9 +1,0 @@
-@font-face{
-    font-family: 'WillGrace';
-    src: url(fonts/willgrace.woff) format('woff');
-}
-
-.hdme{
-    font-family: 'WillGrace';
-    font-size: 2.5em;
-}
